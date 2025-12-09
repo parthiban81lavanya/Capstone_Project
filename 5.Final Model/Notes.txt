@@ -1,0 +1,5 @@
+The best model is Decesion Tree
+Grid Search with the parameters get the 
+F1 score, Accuracy, Cassification report, Precsion and Recall
+
+

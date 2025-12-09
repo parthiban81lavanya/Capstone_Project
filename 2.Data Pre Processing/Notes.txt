@@ -1,0 +1,16 @@
+
+Data Preprocessing.
+**********
+info
+not null
+data types
+data clean up
+
+Check for Null values, missing values : 
+Why there are null values, can we they be replaced with valid values or zero. 
+Can we take average, mean median ,mode.(cetral tendency)
+
+Categorical data - take the Mode and fill the null values. Classification semi supervised learning .. 
+
+Find the outliers and replace: 
+save as csv file . dataset 

@@ -1,0 +1,10 @@
+Data Analysis
+We can skip encoding - Needed while we create a model.
+
+
+List of Questions?
+
+Hypothisis testing
+Covarience
+Correlation
+Visualization plots
